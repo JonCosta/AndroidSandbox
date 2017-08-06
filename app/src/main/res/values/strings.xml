@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sandbox</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_nova_activity">Abrindo uma nova Activity</string>
+    <string name="btn_enviar_msg">Enviar Mensagem</string>
+    <string name="hint_msg">Digite sua mensagem...</string>
+</resources>
